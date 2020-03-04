@@ -1,0 +1,8 @@
+{
+	type: material
+	name: "[#463E39FF]steel"
+	description: "clear [#463E39FF]steel "
+	cost: 1.0
+	color: 463E39FF
+	hardness: 3.0
+}

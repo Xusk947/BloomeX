@@ -1,0 +1,8 @@
+{
+	type: material
+	name: "[#CD7F32FF]bronze[]"
+	description:"[#CD7F32FF]Bronze[] age start"
+	cost: 1.0
+	color: CD7F32FF
+	hardness: 1.7
+}

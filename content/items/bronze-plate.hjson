@@ -1,0 +1,8 @@
+{
+	type: material
+	name: "[#F29435FF]bronze plate[]"
+	description:"[#F29435FF]Bronze Plate[] , using for some crafts"
+	cost: 1.0
+	color: F29435FF
+	hardness: 2.0
+}

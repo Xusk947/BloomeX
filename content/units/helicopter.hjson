@@ -1,0 +1,22 @@
+{
+	name: Helicopter
+	description: Shoot with rocketSwarm
+	speed: 0.035
+	flying: true
+	health: 300
+	range: 120
+	weaponOffsetY: 7
+	rotateSpeed: 4
+	type:hoverUnit
+	mass: 5.0
+	targetAir: true
+	rotateWeapon: false
+	weapon: {
+		name: helic-weap
+		length: 2.0
+		damage: 35
+		reload: 20.0
+		alternate: true
+		bullet: lightning
+	}
+}

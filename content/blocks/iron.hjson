@@ -1,0 +1,6 @@
+{
+	type:OreBlock
+	hardness:2.0
+	itemDrop:"iron"
+	variants:3
+}

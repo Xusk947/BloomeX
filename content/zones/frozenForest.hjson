@@ -1,0 +1,10 @@
+{
+	loadout: basicFoundation
+    startingItems: [
+    copper/150
+    lead/50
+    ]
+    conditionWave: 5
+    launchPeriod: 5
+    resources: [copper , tin , coal, lead]
+}

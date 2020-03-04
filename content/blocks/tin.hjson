@@ -1,0 +1,6 @@
+{
+	type:OreBlock
+	hardness:1
+	itemDrop: "tin"
+	variants:4
+}

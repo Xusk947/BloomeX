@@ -1,0 +1,37 @@
+localizedName: "Bronze Smelter"
+description: "Smelt Bronze Alloy"
+
+type : GenericCrafter
+
+outputItem: bronze-plate/1
+
+updateEffect: smoke 
+craftEffect: fire-ball
+
+health: 230
+size: 2
+update: true
+solid: true
+
+requirements: [
+    tin/15
+    copper/35
+    bronze/50
+    
+] 
+
+idleSound: fire
+craftTime:240
+capacity: 300
+
+consumes : {
+power: 1.2
+items: {
+  items : [
+    iron/2
+  ]
+}
+}
+
+category: crafting
+research: bronze-press

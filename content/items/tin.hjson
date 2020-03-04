@@ -1,0 +1,8 @@
+{
+	type: material
+	name: "[#858585FF]tin"
+	description: "put in furnace with copper to get[#CD7F32FF] bronze "
+	cost: 1.0
+	color: 858585FF
+	hardness: 1.0
+}

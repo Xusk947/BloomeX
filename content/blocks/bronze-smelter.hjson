@@ -1,0 +1,37 @@
+localizedName: "Bronze Smelter"
+description: "Smelt Bronze Alloy"
+
+type : GenericSmelter
+
+outputItem: bronze/1
+
+updateEffect: fireSmoke
+craftEffect: ballfire
+
+health: 450
+size: 2
+update: true
+solid: true
+
+requirements: [
+    tin/75
+    copper/100
+    
+] 
+
+idleSound: fire
+
+capacity: 300
+
+consumes : {
+power: 2.0
+items: {
+  items : [
+    copper/1
+    tin/2
+  ]
+}
+}
+
+category: crafting
+research: core-shard

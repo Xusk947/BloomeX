@@ -1,0 +1,10 @@
+
+{
+	type: material
+	name:"[#B8AAA4FF]iron"
+	description:" put in smelter to get tasty [#463E39FF]steel "
+
+	cost: 2.5
+	color: B8AAA4
+	hardness: 2
+}

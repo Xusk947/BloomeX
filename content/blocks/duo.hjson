@@ -1,0 +1,21 @@
+ammo: {
+tin: {
+    speed: 3
+    damage: 5
+    reloadMultiplier: 1.2
+    bulletWidth: 6
+    bulletHeight: 10
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 4
+    backColor: 858585FF
+    frontColor: A3A3A3FF
+  }
+  
+  copper: standardCopper
+  graphite: standardDense
+  pyratite: standardIncendiary
+  silicon: standardHoming
+  
+  
+}
