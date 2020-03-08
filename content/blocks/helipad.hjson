@@ -10,16 +10,20 @@
 		power: 2.0
 		items: {
 			items: [
-				silicon/1
+				silicon/80
+				dura-steel/20
 			]
 		}
 	},
 	category: units
 	research: copper-wall
 	requirements: [
-		  graphite/10
 		  lead/140
-	      silicon/60
-	      thorium/80
+	      silicon/120
+	      thorium/60
+	      dura-steel/60
+	      dura-steel-ore/80
+	      bronze-plate/40
+	      steel/100
 	]
 }

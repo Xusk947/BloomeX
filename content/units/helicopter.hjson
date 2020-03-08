@@ -7,17 +7,14 @@
 	range: 500
 	weaponOffsetY: 7
 	rotateSpeed: 4
-	type:hoverUnit
 	mass: 5.0
 	targetAir: true
 	rotateWeapon: true
-	weapon :{
+    weapon:{
 	shots:5
 	spacing:1.5
 	name:burner
 	bullet:{
-	type:MissileBulletType
-	lifeTime: 350
 	speed:6
 	damage : 100
 	homingPower: 0.01
@@ -27,8 +24,7 @@
     shootCone :50
 	shotDelay :  5
     inaccuracy :25
-	spacing:1.5
-	}
-	reload : 300
+	spacing:1.5}
+	reload : 100
 	}
 }

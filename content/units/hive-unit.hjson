@@ -3,12 +3,13 @@
 	description: Build Range 300 , Build Speed 1.2
 	speed: 0
 	flying: true
-	health: 210
+	health: 25
 	range: 300
 	weaponOffsetY: 7
 	rotateSpeed: 4
 	type:BuilderDrone
-	mass: 5.0
+	hasShadow: false
+	mass: 100.0
 	targetAir: true
 	rotateWeapon: true
 	weapon :{

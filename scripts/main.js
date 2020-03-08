@@ -1,2 +1,2 @@
-require("helicopter");
+require("heli");
 require("advanced-separator");
