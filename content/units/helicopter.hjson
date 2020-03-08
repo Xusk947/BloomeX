@@ -12,7 +12,7 @@
 	targetAir: true
 	rotateWeapon: true
 	weapon :{
-	shots:30
+	shots:5
 	spacing:1.5
 	name:burner
 	bullet:{
