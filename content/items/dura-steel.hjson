@@ -1,0 +1,8 @@
+{
+	type: material
+	name: "[#575EA3FF]Dura Steel[]"
+	description:"[#575EA3FF]Dura Steel[],let's  do it , power full steel"
+	cost: 1.1
+	color: 575EA3FF
+	hardness: 3.7
+}

@@ -1,0 +1,23 @@
+{
+	name: "Hive"
+	description: "Built Tower , help woth build"
+	unitType: hive-unit
+	buildSpeed:1.2
+	type: UnitFactory
+	size: 3
+	maxSpawn:1
+	produceTime: 3600
+		consumes: {
+		power: 3.5
+	},
+	category: units
+	research: copper-wall
+	requirements: [
+		  dura-steel/100
+		  lead/140
+	      silicon/80
+	      dura-steel-ore/70
+	      bronze/20
+	      steel/60
+	]
+}

@@ -1,0 +1,8 @@
+{
+	type: material
+	name: "[#484E89FF]Dura Steel Crystal[]"
+	description:"[#484E89FF]Dura Steel Crystal [], not clear , put in Furnace to get clear steel"
+	cost: 1.1
+	color: 484E89FF
+	hardness: 3.7
+}

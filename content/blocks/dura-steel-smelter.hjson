@@ -3,34 +3,31 @@ description: "smelt steel from iron  "
 
 type : GenericSmelter
 
-outputItem: steel/1
+outputItem: dura-steel/1
 
 updateEffect: magmasmoke 
 craftEffect: melting
 
-health: 270
-size: 2
+health: 380
+size: 3
 update: true
 solid: true
 
 requirements: [
-    tin/15
-    lead/25
-    copper/35
-    bronze/20
-    bronze-plate/45
-    iron/120
+    bronze-plate/80
+    iron/60
+    steel/150
 ] 
 
 idleSound: fire
-craftTime:120
+craftTime:200
 capacity: 300
 
 consumes : {
-power: 1.2
+power: 2.2
 items: {
   items : [
-    iron/2
+    dura-steel-ore/3
   ]
 }
 }

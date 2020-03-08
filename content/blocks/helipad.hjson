@@ -1,2 +1,25 @@
-health:740
-category: units
+{
+	name: "Helicopter Factory"
+	description: "Makes  Helicopter"
+	unitType: helicopter
+	type: UnitFactory
+	size: 4
+	maxSpawn:1
+	produceTime: 2000
+		consumes: {
+		power: 2.0
+		items: {
+			items: [
+				silicon/1
+			]
+		}
+	},
+	category: units
+	research: copper-wall
+	requirements: [
+		  graphite/10
+		  lead/140
+	      silicon/60
+	      thorium/80
+	]
+}

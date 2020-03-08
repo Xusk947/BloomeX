@@ -1,7 +1,7 @@
 localizedName: "Advanced Silicon Smelter"
 description: "Make more silicon and using not more resources"
 
-type : GenericCrafter
+type : GenericSmelter
 
 outputItem: silicon/3
 
@@ -23,7 +23,7 @@ requirements: [
 ] 
 
 idleSound: fire
-craftTime:100
+craftTime:90
 capacity: 300
 
 consumes : {

@@ -1,0 +1,24 @@
+{
+	name: Hive
+	description: Build Range 300 , Build Speed 1.2
+	speed: 0
+	flying: true
+	health: 210
+	range: 300
+	weaponOffsetY: 7
+	rotateSpeed: 4
+	type:BuilderDrone
+	mass: 5.0
+	targetAir: true
+	rotateWeapon: true
+	weapon :{
+	shots:30
+	buildPower:1.2
+	spacing:1.5
+    name : burner
+    bullet : {
+	type: MissileBulletType
+	}
+	reload : 300
+	}
+}
