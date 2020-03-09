@@ -16,6 +16,7 @@
 	results: [
 		tin/2
 		iron/1
+		dura-steel-ore/2
 	]
 	requirements: [
 	    bronze/35
