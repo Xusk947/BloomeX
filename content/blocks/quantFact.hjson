@@ -1,0 +1,26 @@
+localizedName: "Quantum Liquid Factory"
+description: "Make from anti mater  , all items in game "
+
+
+
+updateEffect: smoke 
+craftEffect: shockwave
+
+health: 230
+size: 2
+update: true
+solid: true
+
+requirements: [
+    tin/15
+    copper/35
+    bronze/50
+    
+] 
+
+idleSound: fire
+craftTime:140
+capacity: 300
+
+
+category: crafting

@@ -1,2 +1,2 @@
 require("heli");
-require("advanced-separator");
+require("hq");
