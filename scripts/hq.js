@@ -129,4 +129,4 @@ drawLayer(tile){
 })
  
  
-hq.mech = Alpha;
+//hq.mech = Alpha;

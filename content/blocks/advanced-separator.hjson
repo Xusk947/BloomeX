@@ -1,7 +1,6 @@
 {
 	name:  "Advanced Separator"
 	description: "Product from slag mod resources"
-	type: separator
 	size: 3
 	category: crafting
 	liquidCapacity: 50

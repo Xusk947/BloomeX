@@ -1,0 +1,31 @@
+{
+	name: chilster
+	description: Drop Cold Bomb
+	speed: 0.16
+	flying: true
+	type: FlyingUnit
+	health: 450
+	range: 120
+	drag : 0.1
+	weaponOffsetY: 7
+	rotateSpeed: 4
+	mass: 7.0
+	targetAir: false
+	rotateWeapon: true
+    weapon:{
+	shots:10
+	spacing:1.5
+	name:cooler
+	bullet:{
+	type: LiquidBulletType
+	liquid:cryofluid
+	speed:0.1
+	damage : 25
+	spacing:1.5
+	
+	
+	}
+	ignoreRotation : true
+	reload : 10
+	}
+}
