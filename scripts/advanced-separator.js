@@ -1,12 +1,11 @@
-var rotatorSpeed = 3;
 
-const adv-sep = extendContent(GenericCrafter, "advanced-separator", {
-
+const advSep = extendContent(Separator, "advanced-separator", {
+	print("loaded");
+	/*
 	draw(tile){
 
     Draw.rect(this.region, tile.drawx(), tile.drawy());
-    Draw.rect(Core.atlas.find(this.name + "-rotator"), tile.drawx(), tile.drawy(), tile.entity.totalProgress  * rotateSpeed);
-
+   
 	},
 
 	drawLayer(tile){
@@ -21,7 +20,7 @@ const adv-sep = extendContent(GenericCrafter, "advanced-separator", {
 			Core.atlas.find(this.name + "-top")
 		];
 	},
-	
+	*/
 });
 
-adv-sep.layer = Layer.turret;
+//adv-sep.layer = Layer.turret;

@@ -6,6 +6,7 @@
 	liquidCapacity: 50
 	craftTime: 45
 	hasLiquids: true
+	type: Separator
 	hasPower: true
 	consumes: {
 		liquid:	slag/0.08
