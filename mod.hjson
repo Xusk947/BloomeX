@@ -1,4 +1,9 @@
 name: "BloomeX",
 author: "[black][Ф[red]ССР][blue]Xu[yellow]sk",
+<<<<<<< HEAD
+description: "Add More block , ores , items , and more interesting and funny content ^^, licopter bomber and more will be wait you ;) \n Interesting Link \n > GitHub : https://github.com/Xusk947/BloomeX \n > Discord : https://discord.gg/7xpBEJJ"
+version: "1.5.0 "
+=======
 description: "Add More block , ores , items , and more interesting and funny content ^^, \n Interesting Link \n >GitHub : https://github.com/Xusk947/BloomeX/edit/master/mod.hjson \n >Discord : https://discord.gg/7xpBEJJ"
 version: "1.4.2 beta"
+>>>>>>> 6cdd8eccea0946dd83dc944d2765d6f4aeb4f06e
