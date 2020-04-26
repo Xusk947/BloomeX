@@ -1,0 +1,38 @@
+localizedName: "Iron Smelter"
+description: "smelt steel from iron  "
+
+type : GenericSmelter
+
+outputItem: steel/1
+
+updateEffect: magmasmoke 
+craftEffect: melting
+
+health: 270
+size: 2
+update: true
+solid: true
+
+requirements: [
+    tin/15
+    lead/25
+    copper/35
+    bronze/20
+    bronze-plate/45
+    iron/120
+] 
+
+idleSound: fire
+craftTime:120
+
+consumes : {
+power: 1.2
+items: {
+  items : [
+    iron/2
+  ]
+}
+}
+
+category: crafting
+research: kiln

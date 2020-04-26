@@ -8,7 +8,6 @@
 	range: 120
 	drag : 0.1
 	weaponOffsetY: 7
-	rotateSpeed: 4
 	mass: 7.0
 	targetAir: false
 	rotateWeapon: true

@@ -1,0 +1,39 @@
+localizedName: "Advanced Silicon Smelter"
+description: "Make more silicon and using not more resources"
+
+type : GenericSmelter
+
+outputItem: silicon/3
+
+updateEffect: smeltsmoke 
+craftEffect: blastsmoke
+
+health: 310
+size: 3
+update: true
+solid: true
+
+requirements: [
+    steel/50
+    iron/80
+    bronze/35
+    bronze-plate/60
+    silicon/120
+    
+] 
+
+idleSound: fire
+craftTime:90
+
+consumes : {
+power: 1.8
+items: {
+  items : [
+    sand/3
+    coal/2
+  ]
+}
+}
+
+category: crafting
+research: silicon-smelter

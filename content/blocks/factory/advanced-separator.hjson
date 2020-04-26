@@ -1,0 +1,31 @@
+{
+	name:  "Advanced Separator"
+	description: "Product from slag mod resources"
+	size: 3
+	category: crafting
+	liquidCapacity: 50
+	craftTime: 45
+	hasLiquids: true
+	type: Separator
+	hasPower: true
+	consumes: {
+		liquid:	slag/0.08
+	
+		power: 1.4
+	}
+	results: [
+		tin/2
+		iron/1
+		dura-steel-ore/2
+	]
+	requirements: [
+	    bronze/35
+	    bronze-plate/50
+	    copper/125
+	    lead/40
+	    tin/70
+	]
+	spinnerSpeed: 2.5
+	idleSound: fire
+	research:separator
+	}

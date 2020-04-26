@@ -1,0 +1,26 @@
+{
+	name: "Chilster Factory"
+	description: "Makes  Chilster"
+	unitType: chilster-unit
+	type: UnitFactory
+	size: 4
+	maxSpawn:2
+	produceTime: 1300
+		consumes: {
+		power: 2.0
+		items: {
+			items: [
+				silicon/40
+				steel/40
+			]
+		}
+	},
+	category: units
+	requirements: [
+		  lead/145
+	      silicon/80
+	      bronze/60
+	      bronze-plate/60
+	      steel/140
+	]
+}

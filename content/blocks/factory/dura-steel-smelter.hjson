@@ -1,0 +1,35 @@
+localizedName: "Dura Stell Smelter"
+description: "smelt really durable steel  "
+
+type : GenericSmelter
+
+outputItem: dura-steel/1
+
+updateEffect: magmasmoke 
+craftEffect: melting
+
+health: 380
+size: 3
+update: true
+solid: true
+
+requirements: [
+    bronze-plate/80
+    iron/60
+    steel/150
+] 
+
+idleSound: fire
+craftTime:200
+
+consumes : {
+power: 2.2
+items: {
+  items : [
+    dura-steel-ore/3
+  ]
+}
+}
+
+category: crafting
+research: kiln

@@ -1,7 +1,7 @@
 
 const advSep = extendContent(Separator, "advanced-separator", {
 	print("loaded");
-	/*
+	
 	draw(tile){
 
     Draw.rect(this.region, tile.drawx(), tile.drawy());
@@ -16,11 +16,11 @@ const advSep = extendContent(Separator, "advanced-separator", {
 	generateIcons: function(){
 		return [
 			Core.atlas.find(this.name),
-			.atlas.find(this.name + "-rotator"),
+			Core.atlas.find(this.name + "-rotator"),
 			Core.atlas.find(this.name + "-top")
 		];
 	},
-	*/
+	
 });
 
 //adv-sep.layer = Layer.turret;

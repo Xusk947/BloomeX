@@ -12,6 +12,8 @@
 	rotateWeapon: true
     weapon:{
 	shots:5
+	shootCone :50
+	shotDelay :  5
 	spacing:1.5
 	name:burner
 	bullet:{
@@ -19,12 +21,10 @@
 	damage : 100
 	homingPower: 0.01
 	homingRange:100
-	height:17
-	width:10
-    shootCone :50
-	shotDelay :  5
+
+
     inaccuracy :25
-	spacing:1.5}
+	}
 	reload : 100
 	}
 }

@@ -1,0 +1,11 @@
+type:  Conveyor
+name: Steel conveyor
+description: fast and durable conveyor
+requirements: [
+  lead/2
+  iron/3
+  steel/3
+]
+category: distribution
+speed: 0.13
+health: 80

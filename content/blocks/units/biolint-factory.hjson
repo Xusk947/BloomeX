@@ -1,0 +1,27 @@
+{
+	name: "Biolint Factory"
+	description: "Makes  Biolint"
+	unitType: biolint
+	size: 5
+	maxSpawn:1
+	produceTime: 4000
+		consumes: {
+		power: 2.0
+		items: {
+			items: [
+				silicon/120
+				dura-steel/35
+			]
+		}
+	},
+	category: units
+	research: copper-wall
+	requirements: [
+		  lead/300
+	      silicon/250
+	      thorium/120
+	      dura-steel/75
+	      dura-steel-ore/125
+	      steel/100
+	]
+}
