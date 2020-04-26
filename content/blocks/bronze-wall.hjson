@@ -1,0 +1,11 @@
+name: Steel Wall
+description: strong and power full wall 
+type: Wall
+health: 640
+size: 1
+requirements: [
+  bronze-plate/10
+  bronze/2
+  copper/1
+]
+category: defense
