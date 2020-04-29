@@ -1,9 +1,0 @@
-name: Dura Steel Wall
-description: very strong and power full wall 
-type: Wall
-health: 960
-size: 1
-requirements: [
-  dura-steel/12
-]
-category: defense
