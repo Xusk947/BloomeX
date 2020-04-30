@@ -10,7 +10,7 @@ Mod for mindustry player by Xusk947
 
 • Link to my mod Discord server :
 
-https://github.com/Xusk947/DustryX
+https://discord.gg/6ZeJ9r8
 
 • Link to my BloomeX trello :
 
