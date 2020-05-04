@@ -1,6 +1,0 @@
-{
-	type:OreBlock
-	hardness:3.8
-	itemDrop:"dura-steel-ore"
-	variants:3
-}

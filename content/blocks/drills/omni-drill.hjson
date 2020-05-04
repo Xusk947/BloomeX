@@ -1,7 +1,8 @@
 name: Omni Drill
 description: have personal items and liquid storage 
-size: 4
+size: 5
 tier: 4
+drillTime:200
 consumes: {
   power: 5
   liquid: {
@@ -11,11 +12,11 @@ consumes: {
   }
 }
 requirements: [
-  dura-steel/80
-  dura-steel-ore/40
-  silicon/60
-  graphite/40
-  steel/35
-  iron/20
+  dura-steel/240
+  dura-steel-ore/80
+  silicon/280
+  graphite/160
+  steel/90
+  iron/70
 ]
 category: production

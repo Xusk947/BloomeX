@@ -1,0 +1,27 @@
+{
+	name: "Narvall Factory"
+	description: "Makes  Narvall"
+	unitType: narvall
+	size: 8
+	maxSpawn:1
+	produceTime: 6000
+		consumes: {
+		power: 4.0
+		items: {
+			items: [
+				silicon/175
+				dura-steel/65
+			]
+		}
+	},
+	category: units
+	research: copper-wall
+	requirements: [
+		  lead/700
+	      silicon/550
+	      thorium/240
+	      dura-steel/230
+	      dura-steel-ore/115
+	      steel/125
+	]
+}

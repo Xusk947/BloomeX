@@ -1,0 +1,13 @@
+{
+	name: Narvall
+	description: hack enemy units
+	speed: 0.1
+	flying: true
+	health: 3500
+	weaponOffsetY: 1.5
+	mass: 10
+	targetAir: true
+	rotateWeapon: true
+	
+	
+}

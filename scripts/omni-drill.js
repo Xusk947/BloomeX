@@ -30,3 +30,4 @@ const omniDrill = extendContent(Drill, "omni-drill", {
 omniDrill.layer = Layer.turret;
 omniDrill.warmupSpeed = 0.009;
 omniDrill.drillTime = 300;
+print("load OmniDrill");
